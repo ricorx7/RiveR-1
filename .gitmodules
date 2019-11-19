@@ -1,0 +1,6 @@
+[submodule "rti_python"]
+	path = rti_python
+	url = https://github.com/rowetechinc/rti_python
+[submodule "AdcpTerminal_pyqt5"]
+	path = AdcpTerminal_pyqt5
+	url = https://github.com/rowetechinc/AdcpTerminal_pyqt5
